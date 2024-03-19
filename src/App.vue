@@ -54,7 +54,7 @@
             key: 'exist'
           },
         ];
-      const members = [
+      const members: Member[] = [
           {
             number: 1,
             name: '山中鹿之助',
